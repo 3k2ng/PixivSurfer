@@ -5,9 +5,9 @@ This is a simple non-async GUI desktop application I made with TKinter and upbit
 Link to upbit's pixivpy: https://github.com/upbit/pixivpy
 
 Current feature:
-  main.py: an application for viewing and downloading illustrations with IDs
-  app.py: browse works of saved users, you can edit in the listed_user.json
-  non-async => very SLOW (sorry..)
+  1. main.py: an application for viewing and downloading illustrations with IDs
+  2. app.py: browse works of saved users, you can edit in the listed_user.json
+  3. non-async => very SLOW (sorry..)
 
 Requirements:
   1. Python 3
